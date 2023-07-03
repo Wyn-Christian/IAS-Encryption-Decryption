@@ -7,8 +7,8 @@ Crypto Technique used:
 2. Rail Fence Cipher (Transposition)
 
 Members:
-> Aranda, Charles Tristan
-> Bedia, Leidy Alecxia
-> Miclat, Mhark Gelo
-> Rebanal, Wyn Christian
-> Sedutan, Lance Lurance
+* Aranda, Charles Tristan
+* Bedia, Leidy Alecxia
+* Miclat, Mhark Gelo
+* Rebanal, Wyn Christian
+* Sedutan, Lance Lurance
